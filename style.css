@@ -5,6 +5,8 @@
  --cor-contraste:#f3eef7;
  --cor-botao:#f9f9f9;
 }
+tema-escuro{
+ --cor-primaria:#
  header{
           background-color:var(--cor-primeria);
           color:var(--cor-contraste);
